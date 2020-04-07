@@ -101,7 +101,7 @@ const IndexPage = props => {
         <p>{site.subtitle}</p>
         {postNodes && (
           <BlogPostPreviewList
-            title='Latest blog posts'
+            title='Latest posts'
             nodes={postNodes}
             browseMoreHref='/archive/'
           />
