@@ -13,7 +13,7 @@ export default {
       name: 'subtitle',
       type: 'string',
       title: 'Subtitle',
-      description: 'Keep it short and simple'
+      description: 'Keep it short and simple please'
     },
     {
       name: 'description',
